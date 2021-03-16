@@ -1,4 +1,4 @@
-<DOCTYPE! html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>Shaozeng fu's understanding of HTML Definitions webpage~</title>
@@ -10,14 +10,48 @@ h2{color:#c0ebd7; font-size:20px;}
 </head>
 <body>
 <h1>Definitions</h1>
+<table border="1">
+  <tr>
+    <th>Wards</th>
+    <th>Defination</th>
+    <th>Example sentence</th>
+    <th>Image</th>
+  </tr>
+ 
+  <tr>
+    <td>td</td>
+    <td>td mean is ......</td>
+    <td>td dsdsdsdsdd</td>
+    <td>□</td>
+  </tr>
+   <tr>
+  <th>dsdsdsd</th>
+  <th>fffffff</th>
+  </tr>
+  <tr>
+    <td>td</td>
+    <td>td mean is ......</td>
+    <td>td dsdsdsdsdd</td>
+    <td>□</td>
+  </tr>
+</table>
+
 <h2>!DOCTYPE! html: The first line of a web page to show it is html.</h2>
+<H3>HTML</H3>
+<H4>BODY</H4>
+<H5TABLE><H5>
 <h2>html...</h2>
 <h2>body...</h2>
 <h2>table...</h2>
+<table border="1">
 <h2>tr..</h2>
 <h2>th.. </h2>
 <h2>td..</h2>
 <h2>br..</h2>
+<h2>hr...</h2>
+
+<h3><hr><h3>
+<hr>
 <a href="definitionRitu.html>
 </body>
 </html>
