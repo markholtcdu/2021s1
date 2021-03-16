@@ -3,6 +3,10 @@
 <head>
 <title>Shaozeng fu's understanding of HTML Definitions webpage~</title>
 <style>
+table{width:33%;height:50%;}
+p{font-size:2em;}
+p{color:#000000;}
+p{background-color:#ff0000;}
 body{background-color:#FFC0CB;}
 h1{color:#e0eee8; font-size:23px;}
 h2{color:#c0ebd7; font-size:20px;}
@@ -10,6 +14,7 @@ h2{color:#c0ebd7; font-size:20px;}
 </head>
 <body>
 <h1>Definitions</h1>
+<p></p>
 <table border="1">
   <tr>
     <th>Wards</th>
@@ -35,6 +40,8 @@ h2{color:#c0ebd7; font-size:20px;}
     <td>□</td>
   </tr>
 </table>
+<hr>
+<hr>
 
 <h2>!DOCTYPE! html: The first line of a web page to show it is html.</h2>
 <H3>HTML</H3>
@@ -43,7 +50,21 @@ h2{color:#c0ebd7; font-size:20px;}
 <h2>html...</h2>
 <h2>body...</h2>
 <h2>table...</h2>
-<table border="1">
+<hr>
+<hr>
+<ol>
+<li>……</li>
+<li>……</li>
+<li>……</li>
+</ol><br>
+<hr>
+<hr>
+<ul>
+<li>……</li>
+<li>……</li>
+</ul>
+<hr>
+<hr>
 <h2>tr..</h2>
 <h2>th.. </h2>
 <h2>td..</h2>
@@ -52,6 +73,7 @@ h2{color:#c0ebd7; font-size:20px;}
 
 <h3><hr><h3>
 <hr>
-<a href="definitionRitu.html>
+<a href=".../index.html>
+<p><a href="http://www.microsoft.com/">本文本</a> peter's html</p>
 </body>
 </html>
