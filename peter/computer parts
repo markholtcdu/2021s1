@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My computer</title>
+<Style>
+body{background-color:#33dd33}
+</head>
+<body>
+<h1> parts of a computer</h1>
+<table>
+<tr>
+<th>part</th>
+<th>Brand</th>
+<th>price</th>
+</tr>
+</tr>
+</table>
+<body>
+</html>
