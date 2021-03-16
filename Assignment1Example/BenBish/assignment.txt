@@ -1,0 +1,13 @@
+In groups of 3, each person make a web page Glossary of definitions.
+
+Be consistent with color, font size etc..
+
+Include links to the web pages of the others in your group.
+
+Present the definitions in a logical way.
+
+
+
+<!DOCTYPE hmtl>, <html>,<body><table>,<tr>,<th>,<td>, <br>
+<a href="../index.html">, <img src="images/file.jpg">, <ul>, <ol>, <li>, <h1>...<h5>, ,<hr>, <br>
+element{width:33%;height:50%;}, element{background-color:#ff0000;},element{color:#000000;},<head>,<style>, element{font-size:1em;}, element:{font-size: 12 px}, <p>,<title>
