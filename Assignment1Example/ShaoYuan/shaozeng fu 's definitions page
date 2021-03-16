@@ -3,6 +3,11 @@
 <head>
 <title>Shaozeng fu's understanding of HTML Definitions webpage~</title>
 <style>
+element{width:33%;height:50%;}
+element{background-color:#ff0000;}
+element{color:#000000;}
+element{font-size:1em;}
+element:{font-size: 12 px}
 table{width:33%;height:50%;}
 p{font-size:2em;}
 p{color:#000000;}
