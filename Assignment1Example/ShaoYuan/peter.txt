@@ -1,0 +1,4 @@
+<!DOCTYPE hmtl>, <html>,<body><table>,<tr>,<th>,<td>, <br>
+<a href="peter.html>, <img src="images/file.jpg>, <h1>,
+element{width:33%:height:50%}, element{background-color:#ff0000}, element{color:#000000;},<head> <Style>
+element{font-size:1em;}, element:{font-size:12px}, <p>, <title>
