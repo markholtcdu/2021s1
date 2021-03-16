@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body{background-color:#F8F8FF}
+      h1{color:#DAA520}
+     
+    </style>
+  </head>
+<body>
+  <h1>This is Inchu</h1>
+  < img src="d.jpg">
+</body>
+</html>
