@@ -4,6 +4,7 @@
 <title>My computer</title>
 <Style>
 body{background-color:#33dd33}
+   </Style>
 </head>
 <body>
 <h1> parts of a computer</h1>
@@ -15,5 +16,5 @@ body{background-color:#33dd33}
 </tr>
 </tr>
 </table>
-<body>
+</body>
 </html>
