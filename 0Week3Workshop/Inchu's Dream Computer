@@ -19,63 +19,69 @@
 <th>BRAND</th>
 <th>MODEL</th>
 <th>PRICE(CNY)</th>
-<th>Note</th>
+<th>Technical Details</th>
 </tr>
     <br>
     <tr>
     <td>Motherboard</td>
-    <td>Gigabyte</td>
-    <td>Z590 AORUS MASTER</td>
-    <td>4298</td>
-    <td>INTEL LGA1200 6x SATA 4x DDR4 30.5cmx 24.4cm 24+16pin</td>
+    <td>GIGABYTE</td>
+    <td>Z590 Aorus Master</td>
+    <td>$719.00</td>
+    <td>INTEL LGA1200 6x SATA 4x DDR4 30.5cmx 24.4cm 24+16pin<a href="https://www.amazon.com.au/Gigabyte-Aorus-Master-Intel-Mainboard/dp/B08XNJR2F4/ref=sr_1_1?dchild=1&keywords=Z590+AORUS+MASTER&qid=1616347893&sr=8-1"><br>click for more</td>
+
     </tr>
     <tr>
     <td>CPU</td>
     <td>Intel</td>
-    <td>CORE I9-10900K</td>
-    <td>3599</td>
-    <td>3.7GHz 10c 20</td>
+    <td>Core i9 i9-10980XE</td>
+    <td>$1,674.48</td>
+    <td>3GHz 18Count<a href="https://www.amazon.com.au/Intel-Core-i9-10980XE-Octadeca-core-Processor/dp/B08DG2HRJN/ref=sr_1_2?crid=142DII9NAGAQ2&dchild=1&keywords=core+i9-10980xe&qid=1616348237&sprefix=CORE+I9-10%2Caps%2C481&sr=8-2"><br>click for more</td>
+
     </tr>    
     <tr>
     <td>RAM</td>
     <td>USCORSAIR</td>
     <td>Vengeance RGB PRO 32GB</td>
-    <td>1699</td>
-    <td>DDR4 3600MHz</td>
+    <td>$1362.70</td>
+    <td>32GB DDR4 3200MHz<a href="https://www.amazon.com.au/Corsair-Vengeance-4x32GB-PC4-25600-Desktop/dp/B083JVKKRY/ref=sr_1_1?dchild=1&keywords=corsair+ram+128&qid=1616348598&sr=8-1"><br>click for more</td>
+
     </tr>    
     <tr>
     <td>GPU</td>
-    <td>ASUS</td>
-    <td>ROG-STRIX-RTX3090-O24G-GAMING</td>
-    <td>18999</td>
-    <td>24GB 2x HDMI 3x DP OC-1890 MHz  Gaming- 1860 MHz 384bit</td>
+    <td>EVGA</td>
+    <td>GeForce RTX 3090 FTW3 Ultra Gaming</td>
+    <td>$6000.00</td>
+    <td>24GB 19500 MHz<a href="https://www.amazon.com.au/EVGA-GeForce-Technology-Backplate-24G-P5-3987-KR/dp/B08J5F3G18/ref=sr_1_2?dchild=1&keywords=rtx+3090&qid=1616349296&s=computers&sr=1-2"><br>click for more</td>
+
     </tr>
     <tr>
     <td>STOREGE</td>
     <td>SAMSUNG</td>
     <td>980 PRO NVMe M.2 2TB</td>
-    <td>3699</td>
-    <td>MZ-V8P2T0BW PCIe Gen 4.0 x4, NVMe 1.3c 2GB in 5100 MB/s out 7000 MB/s TLC</td>
+    <td>$609.00</td>
+    <td>MZ-V8P2T0BW PCIe Gen 4.0 x4, NVMe 1.3c 2GB in 5100 MB/s out 7000 MB/s TLC<a href="https://www.amazon.com.au/Samsung-Internal-Solid-State-MZ-V8P2T0BW/dp/B08QJHLC8J/ref=sr_1_1?dchild=1&keywords=980+PRO+NVMe+M.2+2TB&qid=1616350501&s=computers&sr=1-1"><br>click for more</td>
+
     </tr>
     <tr>
     <td>FAN</td>
     <td>EK</td>
-    <td>Elite 360 D-RGB</td>
-    <td>4886</td>
-    <td></td>
+    <td> EK-AIO 360 D-RGB Liquid CPU Cooler</td>
+    <td>$256.37</td>
+    <td>Water 3-Pin <a href="https://www.amazon.com.au/EKWB-EK-AIO-D-RGB-Liquid-Cooler/dp/B0842YK4L5/ref=sr_1_1?dchild=1&keywords=EK-AIO+360+D-RGB+Liquid+CPU+Cooler&qid=1616350519&s=computers&sr=1-1"><br>click for more</td>
+
     </tr>
     <tr>
     <td>POWER</td>
     <td>USCORSAIR</td>
     <td>AX1600i</td>
-    <td>3999</td>
-    <td>1600W 80Plus-Titanium</td>
+    <td>$811.15</td>
+    <td>1600 Watt 80 Plus Titanium <a href="https://www.amazon.com.au/Corsair-1600W-Titanium-AX1600i-Supply/dp/B07L5Z46HQ/ref=sr_1_1?dchild=1&keywords=AX1600i&qid=1616350541&s=computers&sr=1-1"><br>click for more</a></td>
     </tr>
      <tr>
     <td></td>
     <td></td>
     <td></td>
-    <td>41,179</td>
+    <td>$11,432.70</td>
     <td></td>
     </tr>
 </table>
