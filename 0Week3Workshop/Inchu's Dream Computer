@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <h1>Inchu's understanding of HTML Definitions webpage<h1>
+    <TITLE>Inchu's Dream Computer</TITLE>
     <style>
       body{background-color:#F0F8FF}
       h1{color:#808080}
@@ -11,6 +11,7 @@
     </style>
   </head>
 <body>
+  <h1>Inchu's Dream Computer<h1>
   <h2>Definitions table</h2>
 <table width="1300" height="350" border="1" bordercolor="#5D6D7E" bgcolor="#D6DBDF" >
 <tr>
