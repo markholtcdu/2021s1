@@ -2,10 +2,17 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<h1 align="center">peter's understanding of HTML Definitions webpage</h1>
+<title>peter's HTML Definitions</title>
+<h1>peter's understanding of HTML Definitions webpage</h1>
 <Style>
-table{width:33%:height:50%}
-body{background-color:#7D7DFF;}
+table{width:33%;height:50%}
+body{
+    background: linear-gradient(red, blue);
+    background: -webkit-linear-gradient(red, blue);
+    background: -o-linear-gradient(red, blue); 
+    background: -moz-linear-gradient(red, blue);
+}                                                                                             Yuanbo Zhang.index.htm
+h1{text-align:center;}
 h1{color:White;font-size:3em;}
 h2{color:#FF8000;}
 h3{color:#FFD306;}
@@ -16,30 +23,66 @@ h1{font-size:3em;}
 img{font-size: 12 px}
 table{border:3px solid #000000;}
 th, td{border:1px solid #ff0000;}
-</Style> 
- 
+a:link{color:red;}
+
+.topBox{
+    display: flex;
+
+}
+.mulu{
+    width: 200px;
+}
+.title{
+    font-size: 24px;
+    font-weight: 800;
+}
+.item{
+    height: 24px;
+    line-height: 24px;
+}
+.flex{
+    display: flex;
+}
+</Style>  
 <hr>
 <h2 align='center'> A web page Glossary of definitions.</h2>
 <hr>
 <h1>Definitions</h1>
-<h3>< title ></h3>
-<li>The < title > element defines the title of the document</li>
-<h3>< !DOCTYPE html ></h3>
-<li>The declaration is located at the first place in the document</il>
-<li>Before the < HTML > tag. This tag tells the browser which HTML or XHTML specification to use for the document.</li>
-<h3>< html ></h3>
-<li>Hypertext Markup Language (HTML)</li>
-<h3>< body ></h3>
-<li>The body element defines the body of the document</li>
-<li>The body element contains all the content of the document (such as text, hyperlinks, images, tables, lists, and so on)</li>
-<h3>< Style ></h3>
-<li>Style definitions are internally defined CSS code that is used to design font colors, font sizes, font styles in the body, and the colors of the entire HTML page or part of the tag.</le>
-<h3>< head ></h3>
-<li>The <head> tag is used to define the head of the document, which is the container for all header elements.</li>
-<h3>< p ></h3>
-<li>The tag defines the paragraph</li>
-<hr>
-<hr>
+<div class="topBox">
+    <div class="mulu">
+        <div class="title">PETER'S WEB PAGE CATALOGUE</div>
+
+        <div class="item">1.DEFINITIONS</div>
+        <div class="item">2.TABLE INTRODUCE</div>
+        <div class="item">3. < OL > AND < LI ></div>
+        <div class="item">4.< UL > AND < LI ></div>
+        <div class="item">5.< Img >DEFINITION</div>
+    </div>
+    <div>
+            
+            
+            <h3>< title ></h3>
+            <li>The < title > element defines the title of the document</li>
+            <h3>< !DOCTYPE html ></h3>
+            <li>The declaration is located at the first place in the document</il>
+            <li>Before the < HTML > tag. This tag tells the browser which HTML or XHTML specification to use for the document.</li>
+            <h3>< html ></h3>
+            <li>Hypertext Markup Language (HTML)</li>
+            <h3>< body ></h3>
+            <li>The body element defines the body of the document</li>
+            <li>The body element contains all the content of the document (such as text, hyperlinks, images, tables, lists, and so on)</li>
+            <h3>< Style ></h3>
+            <li>Style definitions are internally defined CSS code that is used to design font colors, font sizes, font styles in the body, and the colors of the entire HTML page or part of the tag.</le>
+            <h3>< head ></h3>
+            <li>The <head> tag is used to define the head of the document, which is the container for all header elements.</li>
+            <h3>< p ></h3>
+            <li>The tag defines the paragraph</li>
+            <hr>
+            <hr>
+    </div>
+</div>
+
+
 <h1>Definition of H1 through H5, The tag H1 is the largest in the font.</h1>
 <h2>This tag H2 is the second largest in the font.</h2>
 <h3>The tag H3 is the third largest font in the font display</h3>
@@ -89,7 +132,7 @@ td{font-size:1em;}
 <hr>
 <h1>The definition of < Ol > and < LI ></h1>
 <ol>
-<li>ol defination is tag defines an ordered list</li>
+<li>Ol defination is tag defines an ordered list</li>
 <li>This is Li label, which mean is label definition list item</li>
 <li>You can also see clearly the numbers on the left, 1,2,3, which means we have a clear idea of what we're going to do next, right</li>
 </ol>
@@ -108,13 +151,42 @@ td{font-size:1em;}
 Note that, technically, the  tag does not insert an image into the Web page, but rather links the image from the Web page. The  tag creates placeholder space for the referenced imagee</h2>
 <img  src="ENIAC.jpg">
 <img  src="Microsoft.jpg">
+<input type=button value="Check out the video for details" onclick="window.open('https://www.youtube.com/watch?v=Qerz5CQa2A8')">
 <hr>
 <hr>
-<p><a href="SHAOZENG FU.index.html"</a> next page!</p>
+<script type="text/javascript">
+box1 = form.box1.checked;
+box2 = form.box2.checked;
+box3 = form.box3.checked;
+box4 = form.box4.checked;
+box5 = form.box5.checked;
+result = (box1 ? 1 : 0) + (box2 ? 1 : 0) + (box3 ? 1 : 0) + (box4 ? 1 : 0) + (box5 ? 1 : 0);if (result > 4) 
+</script>
+</head>
+<body>
+<h1>What do you think of the design?</h1>
+
+<div class="flex">
+    <div style="margin-right:30px;">
+        <form name="form">
+            <input type="checkbox" name="box1">good<br />
+            <input type="checkbox" name="box2">fair to middling<br />
+            <input type="checkbox" name="box1">bad<br />
+            <input type="button" value="Submit" onclick="count()">
+        </form>
+    </div>
+    <textarea rows="3" cols="40"></textarea>
+</div>
+
+<a href="mailto:"3186109689@qq.com">Click to send me an email</a>
+<hr>
+<hr>
+<p><a href="SHAOZENG FU.index.html">next page!</a></p>
 </body>
 </html>
  </body>
  </html>
+
 
 
 
