@@ -1,2 +1,5 @@
-h1 {margin-left:auto;margin-right:auto;}
-body {background-color:#990044;}
+h1 {margin-left:auto;margin-right:auto;font-size:3em;font-weight:600;}
+h2 {margin-left:auto;margin-right:auto;font-size:2em;font-weight:500;}
+h3 {margin-left:auto;margin-right:auto;font-size:1.5em;font-weight:400;}
+p {font-size:1em;font-weight:300;}
+body {background-color:#990044;width:80%}
