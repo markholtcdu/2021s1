@@ -6,7 +6,7 @@ td {height:80px;width:160px;text-align: center;vertical-align: middle;}
 p {font-size:1em;font-weight:70;}
 body {background-image: url("imben/PRY.jpeg");background-repeat: no-repeat;background-size: 100% 100%;}
 img {width:360px;height:248px;}
-figcaption {font-size: 25px;}
+figcaption {font-size: 25px;text-align: center;}
 a:link {color:Black;}
 a:visited {color:Black;}
 a:active {color:Red;}
