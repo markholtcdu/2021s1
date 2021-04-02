@@ -7,4 +7,5 @@ p {font-size:1em;font-weight:70;}
 body {background-image: url("imben/PRY.jpeg");background-repeat: no-repeat;background-size: 100% 100%;}
 img {width:360px;height:248px;}
 figcaption {font-size: 25px;}
-a:hover, a:active {background-color: Black;}
+a.two:link {color:Black;}
+a.two:hover {font-size:150%;}
