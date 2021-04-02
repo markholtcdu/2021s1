@@ -8,5 +8,6 @@ body {background-image: url("imben/PRY.jpeg");background-repeat: no-repeat;backg
 img {width:360px;height:248px;}
 figcaption {font-size: 25px;}
 a:link {color:Black;}
+a:visited {color:Black;}
 a:active {color:Red;}
 a:hover {font-size:150%;}
