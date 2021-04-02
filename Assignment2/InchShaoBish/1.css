@@ -1,5 +1,11 @@
-*{padding: 0;margin: 0;}
+
+
+
+
+/*---------------------------------------------------This is the dividing line. Below is the design block of the body.---------------------------------------------------*/
+*{padding: 0;margin: 0;} /*The * is a wildcard in css, which means that all tabels have attributes, and all tabels follow a uniform style.*/
 body{background-color:#9AE0D4}
+/*The point{.} corresponds to the class labels, the class labels can be reused in a page,but the(#) labels can only be used once in a page, */
 .head{width: 100%px;height: 380px; background: url(1.png); margin: 0 auto;}
 img{width: 2000px; height: 1130px}
 .a{width: 900px;height: 70px;margin: 0 auto; margin-bottom: 50px-; z-index: 3;}
@@ -16,6 +22,7 @@ td{color:#0A350A;font-size:2.5em}
 .foot_a{width: 100%px; bottom: 100px; height: 200px; background: #74D4C4; margin: 0 auto;}
 h1{color:#112D12;font-size:7em;}
 p{color:#112D12;font-size:5em;}
+/* The (#) corresponds to id,and function of # is to control the css style of the corresponding div */
 #mb{width: 250px;height:200px;}
 #cpu{width: 250px;height:200px;}
 #ram{width: 250px;height:200px;}
@@ -24,11 +31,12 @@ p{color:#112D12;font-size:5em;}
 #fan{width: 250px;height:200px;}
 #power{width: 250px;height:200px;}
 #table0{border-radius: 10px 10px 10px 10px;}
-
+/*---------------------------------------------------This is the dividing line. Below is the design block of the booter.------------------------------------------------------ */
 #menu {
 font-size: 15px;
 font-weight: bolder;
 margin: auto;
+width:2000px; height:100px;
 
 }
 #menu li{
@@ -39,7 +47,7 @@ border-right-width: 2px;
 border-right-style: solid;
 border-right-color: #000000;
 float: left;
-margin: 0 auto;
+
 
 }
 #menu li a{
@@ -48,8 +56,8 @@ text-decoration: none;
 font-size: 30px;
 margin: 1px;
 padding-top: 25px;
-display: block; /* 作为一个块 */
-padding-right: 100px; /* 设置块的属性 */
+display: block; /*As a block  */
+padding-right: 100px; /* Set the properties of the block  */
 padding-bottom: 25px;
 padding-left: 100px;
 }
@@ -59,20 +67,22 @@ background-color: #0099CC;
  #GoBackTop{
 font-size: 50px;
 font-weight: bolder; 
-margin:0 auto;
+
  }  
  .footer0{
-    line-height: 200px;/*垂直居中关键*/
+    line-height: 200px;/*Vertical centering key */
     text-align:center;
     height: 200px;
     font-size: 36px;
     background-color: #74D4C4;
 }
-#contact{line-height: 100px;/*垂直居中关键*/
+#contact{line-height: 100px;/*Vertical centering key */
     text-align:center;
 	font-weight: bolder;
     height: 200px;
     font-size: 40px;
     background-color:url(1.png);}
+	
+	
 	
 
