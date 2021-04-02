@@ -7,8 +7,8 @@ p {font-size:1em;font-weight:70;}
 body {background-image: url("imben/PRY.jpeg");background-repeat: no-repeat;background-size: 100% 100%;}
 img {width:360px;height:248px;}
 figcaption {font-size: 25px;text-align: center;}
-a:link {color:Black;}
-a:visited {color:Black;}
-a:active {color:Red;}
-a:hover {font-size:150%;}
-iframe {text-align: center;}
+a:link {color:Black;text-align: center;}
+a:visited {color:Black;text-align: center;}
+a:active {color:Red;text-align: center;}
+a:hover {font-size:150%;text-align: center;}
+figure {text-align: center;}
