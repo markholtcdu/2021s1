@@ -6,7 +6,7 @@
 *{padding: 0;margin: 0;} /*The * is a wildcard in css, which means that all tabels have attributes, and all tabels follow a uniform style.*/
 body{background-color:#9AE0D4}
 /*The point{.} corresponds to the class labels, the class labels can be reused in a page,but the(#) labels can only be used once in a page, */
-.head{width: 100%px;height: 380px; background: url(1.png); margin: 0 auto;}
+.head{width: 100%px;height: 380px; background: url(images/1.png); margin: 0 auto;}
 img{width: 2000px; height: 1130px}
 .a{width: 900px;height: 70px;margin: 0 auto; margin-bottom: 50px-; z-index: 3;}
 .b{width: 860px; height: 90px; background: #A0EAD4; margin: 0 auto;}
@@ -18,7 +18,7 @@ table tr td{ background: #CCFFFF; border: #74D4C4 solid 10px;}
 th{color:#112D12;font-size:2.5em}
 td{color:#0A350A;font-size:2.5em}
 .e{width: 2000px; height: 1700px;margin: 0 auto;}
-.foot{width: 100%;height: 100px; background: url(1.png); margin: 0 auto;}
+.foot{width: 100%;height: 100px; background: url(images/1.png); margin: 0 auto;}
 .foot_a{width: 100%px; bottom: 100px; height: 200px; background: #74D4C4; margin: 0 auto;}
 h1{color:#112D12;font-size:7em;}
 p{color:#112D12;font-size:5em;}
@@ -81,7 +81,7 @@ font-weight: bolder;
 	font-weight: bolder;
     height: 200px;
     font-size: 40px;
-    background-color:url(1.png);}
+    background-color:url(images/1.png);}
 	
 	
 	
