@@ -1,3 +1,6 @@
 *{font-size:1.5em}
-#box1{background-color:#800000;border: 3px solid #FFA500;width:40%;padding:2em;margin:20px;}
-#box2{background-color:#800080;border: 3px solid #FFA500;width:30%;padding:3em;margin:30px;}
+#box1{background-color:#800000;border: 5px solid #FFA500;width:40%;padding:3em;margin:20px;}
+#box2{background-color:#800080;border: 5px solid #FFA500;width:40%;padding:3em;margin:20px;margin-left:50%;}
+#box3{background-color:#FF00FF;border: 5px solid #FFA500;width:40%;padding:3em;margin:20px;}
+#box4{background-color:#00FFFF;border: 5px solid #FFA500;width:40%;padding:3em;margin:20px;margin-left:50%;}
+

@@ -1,3 +1,7 @@
-*{font-size:1.5em}
-#box1 {background-color: #A52A2A; border:3px solid #0000FF;width:50%;padding:2em;margin:25px;}
-#box2 {background-color: #0000A0; border:3px solid #0000FF;width:35%;padding:3em;margin:35px;}
+h2{color:#008000;font-size:2em;text-align:center;}
+*{font-size:1em}
+#box1 {background-color: #A52A2A; border:15px solid #0000FF;float:left;width:15%;padding:10em;margin:15px}
+#box2 {background-color: #0000A0; border:15px solid #0000FF;float:right;width:15%;padding:10em;margin:35px}
+#box3 {background-color: #A52A2A; border:15px solid #0000FF;float:left;width:15%;padding:10em;margin:35px}
+#box4 {background-color: #0000A0; border:15px solid #0000FF;float:right;width:15%;padding:10em;margin:35px}
+
