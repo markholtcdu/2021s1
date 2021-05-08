@@ -2,4 +2,4 @@ header {width:100%;border:3px;border-style:solid;border-color:#000000}
 article  {width:33%;border:2px;border-style:solid;border-color:#0000FF;float:left;}
 footer {clear:both;}
 h1,h2 {text-align:center;}
-.box {width: 300px;border: 2px solid brown;padding: 40px;margin: 20px;}
+.box {width: 300px;border: 2px solid brown;padding: 50px;margin: 20px;}
