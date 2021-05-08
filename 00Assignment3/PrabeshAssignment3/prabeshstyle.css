@@ -1,6 +1,6 @@
 header {width:100%;border:3px;border-style:solid;border-color:#FF00FF}
 article {width:33%;border:2px;border-style:solid;border-color:#0000A0;float:left}
 footer {clear:both;}
-h1,h2 {text-align:center;}
 body {background-color:#800080;
-.box {width: 300px;border: 2px solid blue;padding: 40px;margin: 15px;}
+h1,h2 {text-align:center;}
+.box {width: 300px;border: 2px solid black;padding: 40px;margin: 15px;}
