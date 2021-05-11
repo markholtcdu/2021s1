@@ -1,6 +1,6 @@
-header {width:100%;border:5px;border-style:solid;border-color:#FF00FF}
-article {width:33%;border:3px;border-style:solid;border-color:#0000A0;float:left}
+header {width:99.33%;border:5px;border-style:solid;border-color:black}
+article  {width:33%;border:2px;border-style:solid;border-color:black;float:left;}
 footer {clear:both;}
-body {background-color:#800080;
-h1,h2 {text-align:center;}
-.box {width: 300px;border: 3px solid black;border-radius: 25px;padding: 50px;margin: 20px;}
+body {background-color:#800800;}
+h1,h2 {text-align:center;color:#f7b300}
+.box {width: 300px;border: 3px solid blue;border-radius: 25px;padding: 50px;margin: 20px;}
