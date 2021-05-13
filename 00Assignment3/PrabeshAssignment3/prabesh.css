@@ -1,11 +1,11 @@
 header{margin:auto;clear:both;width:20%}
 ul {
   list-style-type: none;
-  margin: 0;
+  margin: auto;
   padding: 0;
   position: fixed;
   top: 0;
-  width: 100%;
+  width:50%;
 }
 li {
   float: left;
@@ -14,5 +14,5 @@ li {
 a {
   display: block;
   padding: 8px;
-  background-color: #FF0088;
+  background-color: #dddddd;
 }
