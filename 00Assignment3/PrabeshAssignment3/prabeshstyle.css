@@ -1,0 +1,33 @@
+header{margin:auto;clear:both;width:20%}
+ul {
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  width:50%;
+}
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+footer { 
+  float: left;
+  width: 95%;
+  height: 400px;
+  margin-left: 30px;padding: 10px;border: 3px solid blue;
+  border-radius: 5px; 
+}
+p {
+  color: navy;
+  text-indent: 30px;
+  font-family: courier;
+}
+body {
+  background-color: lightblue;
+}
