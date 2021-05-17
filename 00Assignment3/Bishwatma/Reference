@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="Bishwatma1style.css">
+  </head>
+  <body>
+   <header>
+      <h1>Reference</h1>
+     <li>Coiffet, P. and Chirouze, M., 1983. An introduction to robot technology. London: Kogan Page.</li>
+     <li> Essays.se. 2021. ESSAYS.SE: Product development of an end-effector for a collaborative robot. [online] Available at: <https://www.essays.se/essay/46c66c79c8/> [Accessed 17 May 2021].
+
+</li>
+      <li> Ieeexplore.ieee.org. 2021. Estimating robot end-effector force from noisy actuator torque measurements. [online] Available at: <https://ieeexplore.ieee.org/document/5980210> [Accessed 17 May 2021].
+</li>
+      <li> Kaur, K., 2021. Building an End-Effector for Robotic Control. [online] AZoRobotics.com. Available at: <https://www.azorobotics.com/Article.aspx?ArticleID=88> [Accessed 17 May 2021].
+
+</li>
+      <li> Qin, X., Wu, G., Lei, J., Fan, F., Ye, X. and Mei, Q., 2018. A Novel Method of Autonomous Inspection for Transmission Line based on Cable Inspection Robot LiDAR Data. Sensors, 18(2), p.596.
+</li>    
+     <li>Takayama, T., Takeshima, H., Hori, T. and Omata, T., 2015. A Twisted Bundled Tube Locomotive Device Proposed for In-Pipe Mobile Robot. IEEE/ASME Transactions on Mechatronics, 20(6), pp.2915-2923.
+</li>
+     <li>Tsuruta, K., Sasaya, T. and Kawahara, N., 2001. In-pipe wireless micro robot. Journal of Micromechatronics, 1(3), pp.263-272.</li>
+    </header>
+    <nav>
+<ul>
+  <li ><a href="Bishwatma.html">Note Page</a></li>
+   <li ><a href="Introduction.html">Robotics</a></li>
+  <li ><a href="Lidar.html">Lidar</a></li>
+  <li ><a href="Locomotive Device.html">Locomotive Device</a></li>
+  <li><a href="Endeffector.html">Endeffector</a></li>
+  <li><a href="Reference.html">Reference</a></li>
+  <li><a href="Conclusion.html">Conclusion</a></li>
+</ul>
+      </nav>
+        </html>
