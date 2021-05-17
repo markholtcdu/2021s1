@@ -14,8 +14,8 @@ a{
   padding: 8px;
   background-color: #dddddd;
 }
-header {width:100%;border:8px;border-style:solid;border-color:#000000}
-article  {width:100%;border:5px;border-style:solid;border-color:#0000FF;float:left;}
+header {width:200%;border:5px;border-style:solid;border-color:#000000}
+article  {width:200%;border3px;border-style:solid;border-color:#0000FF;float:left;}
 footer {
   clear:both;
 height: 800px;
