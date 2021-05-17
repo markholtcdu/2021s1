@@ -31,3 +31,10 @@ p {
 body {
   background-color: lightblue;
 }
+.box {
+  width: 300px;
+  border: 3px solid black;
+  border-radius: 25px;
+  padding: 50px;margin: 20px;
+  color:#FFFFFF;
+}
