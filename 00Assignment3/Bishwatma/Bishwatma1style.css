@@ -18,7 +18,7 @@ header {width:100%;border:5px;border-style:solid;border-color:#000000}
 article  {width:100%;border:2px;border-style:solid;border-color:#0000FF;float:left;}
 footer {
   clear:both;
-height: 400px;
+height: 800px;
 }
   body{background-color:#B0C4DE;}
 h1,h2 {text-align:center;}
