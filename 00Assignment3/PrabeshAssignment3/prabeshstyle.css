@@ -31,4 +31,4 @@ p {
 body {
   background-color: lightblue;
 }
-
+@media(max-width:600px) {float:none;}
