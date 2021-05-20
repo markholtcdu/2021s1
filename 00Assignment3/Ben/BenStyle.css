@@ -7,3 +7,4 @@ h1,h2 {text-align:center;color:#f7b3d8}
 ul {list-style-type:none; margin:0; padding:0;}
 li {float:left;}
 a {display: block; padding: 8px; backgroun-color:#9e8262;}
+@media (max-width:600px) {float:none}
