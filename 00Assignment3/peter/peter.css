@@ -1,75 +1,130 @@
-body {
-    padding: 5px;
-    background-color: rgb(223, 234, 250);
-}
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-h1,
-h2 {
-    text-align: center;
+img {
+    vertical-align: bottom;
 }
 
-li {
-    margin: 1.3% 0;
-    line-height: 30px;
-}
-
-li,
-p {
-    font-size: 0.9vw;
+a {
+    color: #fff;
+    text-decoration: none;
 }
 
 header {
-    width: 60%;
-    height: 80px;
-    margin: 30px auto;
-    line-height: 80px;
-    border: 3px solid #FFC125;
+    position: relative;
 }
 
-article {
-    height: 875px;
-    margin-bottom: 30px;
-}
-
-.box {
-    float: left;
-    width: 30%;
-    height: 875px;
-    margin-left: 2.5%;
-    padding: 10px;
-    border: 3px solid rgb(92, 167, 186);
-    border-radius: 10px;
-    line-height: 28px;
-}
-
-.box h2 {
-    margin: 10px 0 15px;
-}
-
-.bottom {
+header img {
     width: 100%;
-    /* height: 350px; */
+}
+
+header h1 {
+    position: absolute;
+    top: 50%;
+    left: 4%;
+    color: #fff;
+    font-size: 68px;
+}
+
+#main1 {
+    width: 100%;
+    height: 1700px;
+    padding-top: 5%;
+    background-image: url(images/bg1.jpg);
+    background-size: cover;
+}
+
+#main1 .list {
+    margin: 0 auto;
+    width: 95%;
+    height: 1600px;
+    padding: 4%;
+    background: url(images/rebot2.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+.list .bor {
+    width: 100%;
+    height: 100%;
+    border: 5px solid #92d9cb;
+    border-radius: 30px;
+}
+
+.list .title,
+.text .title {
+    width: 20%;
+    height: 130px;
+    margin: 1% auto;
+    background: url(images/rebot3.png) no-repeat;
+    background-size: 100% 100%;
+    color: #000;
+}
+
+.list .title h2 {
+    text-align: center;
+    line-height: 130px;
+    font-size: 1.3vw;
+}
+
+.list .box {
+    padding: 5px 6%;
+    font-size: 1vw;
     text-indent: 2em;
-    padding: 0 10px;
+    color: #999494;
 }
 
-.box ul {
-    width: 100%;
-    /* height: 160px; */
-    padding: 10px 5px 0 22px;
-    margin-bottom: 10px;
-    border: 2px dashed #33cc99;
+ul li {
+    margin: 5px 0;
 }
 
 footer {
+    clear: both;
     width: 100%;
-    /* height: 100px; */
-    padding: 5px 20px;
-    border: 5px dashed deeppink;
+    height: 800px;
+    padding: 150px 50px 0;
+    background: url(images/bg3.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+footer .res {
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+footer .res h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+footer p {
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+}
+
+footer p a {
+    font-weight: normal;
+    text-decoration: none;
+    color: #fff;
+}
+
+.f_top {
+    margin-bottom: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.f_bottom {
+    width: 100%;
+    height: 170px;
+    text-align: center;
+}
+
+.f_bottom ul li {
+    list-style: none;
+    float: left;
+    margin-left: 25%;
 }
