@@ -1,0 +1,72 @@
+body {
+  background: #EEEEEE url(../images/bg.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+a {
+  text-decoration: none;
+  color: blue;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1,
+h2,
+a {
+  font-family: Verdana;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  text-align: center;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+header {
+  margin: 50px;
+}
+nav {
+  display: block;
+  margin: 50px;
+  width: 55%;
+  font-size: 20px;
+  border-bottom: 3px dashed #000;
+}
+nav ul {
+  overflow: hidden;
+}
+nav ul li {
+  list-style: none;
+  float: left;
+  margin-left: 7%;
+}
+nav li:first-child {
+  margin-left: 0;
+}
+article {
+  width: 70%;
+  margin: auto;
+  padding: 2em;
+  border: 2px solid green;
+  color: #ccc;
+}
+article p {
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+article figure {
+  display: block;
+  margin: auto;
+  width: 90%;
+}
+article figure img {
+  width: 25%;
+  height: 300px;
+  margin: 30px 4% 0;
+}
+@media screen and (max-width: 600px) {
+  font: none;
+}
