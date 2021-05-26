@@ -9,4 +9,4 @@ ul {list-style-type:none; padding:0; text-align:center;}
 li {float:left;}
 a {display:block; padding:8px; background-color:#9e8262; color:#f7b3d8}
 @media (max-width:600px) {float:none;}
-img {width:360px; height:240px;}
+img {width:auto; height:auto;}
