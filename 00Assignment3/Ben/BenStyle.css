@@ -10,4 +10,3 @@ li {float:left;}
 a {display: block; padding: 8px; background-color:#9e8262; color:#f7b3d8}
 @media (max-width:600px) {float:none;}
 img {width:360px;height:248px;}
-figcaption {font-size: 25px;text-align: center;}
