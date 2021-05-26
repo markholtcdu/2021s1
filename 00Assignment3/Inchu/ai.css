@@ -1,0 +1,141 @@
+﻿* {
+  box-sizing: border-box;
+}
+
+/* 主体样式 */
+body {
+  margin: 0;
+background-image:url(images/b.jpg);
+background-opacity:0.6;
+}
+
+
+.img
+{
+}
+/* 图片样式 */
+img {
+width:80%;
+opacity:0.7;
+  filter:alpha(opacity=70);
+}
+
+img:hover
+{
+  opacity:1.0;
+  filter:alpha(opacity=100);
+}
+
+/* 头部样式 */
+.header {
+
+  padding: 20px;
+  text-align: center;
+}
+
+/* 导航条 */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul {
+    list-style-type: none;
+    margin: 1;
+    padding: 1;
+    overflow: hidden;
+    background-color: #333;
+
+}
+ 
+li {
+    float: left;
+		border-right:1px solid grey;
+
+}
+ 
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 100px;
+    text-decoration: none;
+}
+.active {
+    background-color: #4CAF50;
+float:left;
+}
+ 
+/*鼠标移动到选项上修改背景颜色 */
+li a:hover {
+    background-color: #111;
+}
+
+
+/* 主页创建三个相等的列 */
+.column {
+  float: left;
+  width: 33.33%;
+text-align: center;
+}
+
+/* 分页创建两个相等的列 */
+.columnn {
+  float: left;
+  width: 38%;
+text-align: center;
+margin-left:8%;
+}
+
+
+
+ 
+/* 列后清除浮动 */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+ 
+/* 响应式布局 - 小于 600 px 时改为上下布局 */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+ 
+/* 底部 */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 40%;
+}
+
+.hfooter {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+.bfooter {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 13%;
+}
+ 
+/* 响应式布局 -屏幕尺寸小于 400px 时，导航改为上下布局 */
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+
+
+
+.video{float: left; left:15%; text-align: center; position:absolute; margin-top: 50px; z-index: 1; width:70%;}
+
+.V{float: left; left:31%; text-align: center; position: absolute; margin-top: 70px; z-index: 2;}
