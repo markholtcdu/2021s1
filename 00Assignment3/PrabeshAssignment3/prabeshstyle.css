@@ -33,5 +33,18 @@ body {
 }
 @media(max-width:600px) {float:none;}
 article {width: 31%; margin-left:auto;margin-right:auto;border:2px;  padding: 5px;border-style:solid;border-color:#CCCCCC;float:left;}
+img {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
 h1,h2 {text-align: center;}
 .box{width: 90%; border: 3px solid #222222; padding:8px; margin:8px; }
