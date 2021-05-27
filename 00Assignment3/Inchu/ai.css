@@ -2,10 +2,11 @@
   box-sizing: border-box;
 }
 
-h1{font-size: 10 em
+h1{font-size: 10 em;
 }
-
-p{font-size:7 em
+h3{font-size: 7 em;
+}
+p{font-size: 5 em;
 }
 
 /* 主体样式 */
