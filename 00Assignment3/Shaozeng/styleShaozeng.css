@@ -25,7 +25,10 @@ h1 {
 	background-image:url(images/OIP.jpg);
 	color:#F4EFEF
 }
-
+h2{
+	font-size: 2em;
+	text-align: center;
+}
 
 
 p {
