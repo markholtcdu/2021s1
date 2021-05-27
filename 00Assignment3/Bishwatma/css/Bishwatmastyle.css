@@ -1,3 +1,7 @@
+ul{
+top: 0;
+  width: 100%;
+}
 li{
   float:left;
 }
