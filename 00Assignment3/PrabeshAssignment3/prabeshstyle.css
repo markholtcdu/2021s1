@@ -39,10 +39,9 @@ body {
 @media(max-width:600px) {float:none;}
 article {width: 31%; margin-left:auto;margin-right:auto;border:2px;  padding: 5px;border-style:solid;border-color:#CCCCCC;float:left;}
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
 }
 
 figcaption {
