@@ -9,6 +9,6 @@ li a {display:block; color:white; text-align:center; padding: 14px 16px; text-de
 li a:hover {background-color:#f7b3d8;}
 a {display:block; padding:8px; background-color:#9e8262; color:#f7b3d8}
 @media (max-width:600px) {float:none;}
-img {width:360px;height:248px;}
+img {width:auto; height:auto;}
 .box {width:300px; border:3px solid black; border-radius:25px; padding:50px; margin:20px; color:black;}
 figcaption {text-align:center;}
