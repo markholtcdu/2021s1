@@ -1,19 +1,4 @@
-ul{
-  list-style: none;
-  margin: 0;
-  padding: 0;
-position: fixed;
- top: 0;
-  width: 100%;
-}
-li{
-  float:left;
-}
-a{
-  display: block;
-  padding: 8px;
-  background-color: #dddddd;
-}
+
 header {width:100%;border:5px;border-style:solid;border-color:#000000}
 article  {width:33%;border:2px;border-style:solid;border-color:#0000FF;float:left;}
 footer {clear:both;}
