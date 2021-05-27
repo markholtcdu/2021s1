@@ -1,8 +1,21 @@
+
+
 body {
-    background-image:url(images/rbt.jpg);
-background-opacity:0.5;
-    padding: 5px;
+	background-color：
+  margin: 0;
+background-image:url(images/rbt.jpg);
+background-opacity:0.2;
 }
+
+img {
+width:70%;
+opacity:1.1;
+  filter:alpha(opacity=70);
+}
+
+.nav {
+  overflow: hidden;
+  background-color: #333;
 
 * {
     margin: 0;
