@@ -1,5 +1,5 @@
 header {width:100%;border:3px;border-style:solid;border-color:#800080}
-article  {width:35%;border:2px;border-style:solid;border-color:#800080;float:left;}
+article {width:100%;border:3px;border-style:solid;border-color:#800080;float:left;}
 footer {clear:both;}
 body{background-color:#CC99CC;}
 h1,h2 {text-align:center;}
